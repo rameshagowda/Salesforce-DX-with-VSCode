@@ -1,0 +1,77 @@
+[
+    [
+        "C:\\Salesforce\\geolocation\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Salesforce\\geolocation\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1541907336628,
+            "changeTime": 1541907336628,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Salesforce\\geolocation\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Salesforce\\geolocation\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1541907336628,
+            "changeTime": 1541907336628,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Salesforce\\geolocation\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Salesforce\\geolocation\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1541907336629,
+            "changeTime": 1541907336629,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Salesforce\\geolocation\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Salesforce\\geolocation\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1541907336629,
+            "changeTime": 1541907336629,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Salesforce\\geolocation",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Salesforce\\geolocation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1541907540512,
+            "changeTime": 1541907540512,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
